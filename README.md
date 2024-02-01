@@ -20,8 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,Data Analysis, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Hypothesis Testing, Regression Analysis, Scikit-Learn, TensorFlow, Keras, NLTK, Spacy, NLP, CNN, RNN, LSTM, GPT, GAN, Yolo, Sentiment Analysis, Text Classification, Named Entity Recognition, BERT, Transformer, Deployment, Streamlit, Amazon Sagemaker, Spark, Flask, Git, Automation, Data Engineering, Problem-solving, Critical Thinking, Effective Communication, Team Collaboration, Time Management, Data Visualization, Data Preprocessing, Machine Learning Model Building, Data Mining, Python, R Programming, Project Management, Leadership
-,r&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,git,kubernetes,docker,c,vim,angular,ansible,bash,bootstrap,css,django,grafana,html,ai,java,jenkins,jquery,nodejs,nginx,mysql,mongodb,powershell,prometheus,pytorch,tensorflow,r&perline=15)](https://skillicons.dev)
 
 ## 💬 Let's Connect!
 - Interested in collaborating or learning more about my work? Feel free to reach out!
