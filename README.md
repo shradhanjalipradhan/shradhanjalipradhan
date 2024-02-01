@@ -2,7 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 * 🌍  I'm based in the United States
-* ✉️  You can contact me at [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
+## Connect with me:
+[<img align="left" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />][medium]
+<br/>
+
+[email]: mailto:[edu.shradhanjali@gmail.com]
+[linkedin]: [https://www.linkedin.com/in/shradhanjalipradhan/]
+[twitter]: [https://twitter.com/Shradha1405]
+[medium]: [https://medium.com/@pradhanshradhanjali300]
+
 
 ## 🎓 Education
 - **MSc in Applied Data Analytics** - Boston University, Massachusetts (Expected Dec 2024)
