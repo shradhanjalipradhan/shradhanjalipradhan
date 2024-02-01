@@ -1,4 +1,8 @@
-# Hello, I'm Shradhanjali Pradhan 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shradhanjali Pradhan
+============================================================================================================================================
+
+* 🌍  I'm based in the United States
+* ✉️  You can contact me at [edu.shradhanjali@gmail.com](mailto:edu.shradhanjali@gmail.com)
 
 ## 🎓 Education
 - **MSc in Applied Data Analytics** - Boston University, Massachusetts (Expected Dec 2024)
