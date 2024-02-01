@@ -18,12 +18,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Chatbot with OpenAI GPT-3 using Flask**: Developed a witty chatbot that blurs the lines between AI and human conversation.
 - **LLM-Powered Wikipedia Chat Assistant with RAG**: Created a conversational UI for intuitive interactions with Wikipedia's knowledge.
 
-## 🔧 Skills
-- **Data Analysis**: Expertise in Pandas, NumPy, Matplotlib, Seaborn, Tableau.
-- **Machine Learning Libraries**: Proficient with Scikit-Learn, TensorFlow, Keras, NLTK, Spacy.
-- **NLP**: Skilled in Sentiment Analysis, Text Classification, Named Entity Recognition.
-- **Deployment**: Experience with Streamlit, Amazon Sagemaker, Flask.
-- **Programming**: Proficient in Python and R.
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,Data Analysis, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Hypothesis Testing, Regression Analysis, Scikit-Learn, TensorFlow, Keras, NLTK, Spacy, NLP, CNN, RNN, LSTM, GPT, GAN, Yolo, Sentiment Analysis, Text Classification, Named Entity Recognition, BERT, Transformer, Deployment, Streamlit, Amazon Sagemaker, Spark, Flask, Git, Automation, Data Engineering, Problem-solving, Critical Thinking, Effective Communication, Team Collaboration, Time Management, Data Visualization, Data Preprocessing, Machine Learning Model Building, Data Mining, Python, R Programming, Project Management, Leadership
+,r&perline=15)](https://skillicons.dev)
 
 ## 💬 Let's Connect!
 - Interested in collaborating or learning more about my work? Feel free to reach out!
