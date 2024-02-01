@@ -20,8 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,git,tensorflow,keras,nltk,spacy,flask,tableau,docker,mysql,mongodb,bash,linux,aws&perline=10)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,anaconda,python,git,flask,github,c,matlab,opencv,pytorch,regex,sklearn,terraform,html,ai,java,mysql,mongodb,tensorflow,r&perline=15)](https://skillicons.dev)
 ## 💬 Let's Connect!
 - Interested in collaborating or learning more about my work? Feel free to reach out!
 - 📫 How to reach me: `[Your Contact Information]`
