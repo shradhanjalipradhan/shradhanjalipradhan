@@ -34,7 +34,6 @@ Driven AI/ML Engineer with an MSc in Applied Data Analytics from Boston Universi
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/https://github.com/shradhanjalipradhan/https://github.com/shradhanjalipradhan/Quara-Question-Pairs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/shradhanjalipradhan&repo=https://github.com/shradhanjalipradhan/Quara-Question-Pairs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-============================================================================================================================================
 
 
 
