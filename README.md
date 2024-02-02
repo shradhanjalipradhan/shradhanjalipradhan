@@ -44,5 +44,5 @@ Driven AI/ML Engineer with an MSc in Applied Data Analytics from Boston Universi
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,anaconda,python,git,flask,github,c,matlab,opencv,pytorch,regex,sklearn,terraform,html,ai,java,mysql,mongodb,tensorflow,r&perline=15)](https://skillicons.dev)
 ## 💬 Let's Connect!
 - Interested in collaborating or learning more about my work? Feel free to reach out!
-- 📫 How to reach me: `[Your Contact Information]`
+- 📫 How to reach me: `[https://www.linkedin.com/in/shradhanjalipradhan/]`
 
