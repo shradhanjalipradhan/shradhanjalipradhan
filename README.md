@@ -25,18 +25,6 @@ Driven AI/ML Engineer with an MSc in Applied Data Analytics from Boston Universi
 
 <p align="left"> <a href="https://www.github.com/https://github.com/shradhanjalipradhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/https://medium.com/@pradhanshradhanjali300" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/https://twitter.com/Shradha1405" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/https://github.com/shradhanjalipradhan/https://github.com/shradhanjalipradhan/AirBnb/tree/main" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/shradhanjalipradhan&repo=https://github.com/shradhanjalipradhan/AirBnb/tree/main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/https://github.com/shradhanjalipradhan/https://github.com/shradhanjalipradhan/Self-Driving-Car" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/shradhanjalipradhan&repo=https://github.com/shradhanjalipradhan/Self-Driving-Car&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/https://github.com/shradhanjalipradhan/https://github.com/shradhanjalipradhan/Quara-Question-Pairs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/shradhanjalipradhan&repo=https://github.com/shradhanjalipradhan/Quara-Question-Pairs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
-
 ## 🎓 Education
 - **MSc in Applied Data Analytics** - Boston University, Massachusetts (Expected Dec 2024)
   - Project: **DeepRealty**: Leveraging Neural Networks for Property Valuation.
