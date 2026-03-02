@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shradhanjali%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20%26%20AI%20Engineer%20%7C%20Building%20Intelligent%20Systems%20at%20Scale&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+# ⚡ Shradhanjali Pradhan
+
+### Senior Data & AI Engineer | Building Intelligent Systems at Scale
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=LLM+Agents+%7C+MLOps+%7C+Spark+%26+AWS+%7C+Production+AI+Systems;Architecting+Autonomous+AI+%E2%80%94+From+Prototype+to+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=LLM+Agents+%7C+MLOps+%7C+Spark+%26+AWS+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
 <!-- QUICK LINKS -->
 <p>
@@ -256,7 +258,7 @@ Whether it's a startup idea, open-source project, or technical writing — let's
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <sub>⚡ Designed to ship. Built to scale. Powered by curiosity.</sub>
 
