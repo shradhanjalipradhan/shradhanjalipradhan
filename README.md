@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- HERO SECTION -->
+<img src="Gemini_Generated_Image_kxx8mikxx8mikxx8.png" width="100%" />
+
 # ⚡ Shradhanjali Pradhan
 
 ### Senior Data & AI Engineer | Building Intelligent Systems at Scale
