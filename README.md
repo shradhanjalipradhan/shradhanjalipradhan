@@ -87,7 +87,7 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 2026 ─── 🔷 Softech Technology Group Inc ──── AI/ML Engineer
          │   Production LLM systems & enterprise AI
          │
-2024 ─── 🔷 DE Holdings (Data Engineer Academy) ── MLOps Engineer
+2024 ─── 🔷 DE Holdings (Data Engineer Academy) ── Data Engineer
          │   Scalable ML pipelines, forecasting, anomaly detection
          │
 2024 ─── 🔷 Omdena ──── ML Engineer
