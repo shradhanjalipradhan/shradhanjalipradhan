@@ -260,7 +260,7 @@ Whether it's a startup idea, open-source project, or technical writing — let's
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 <sub>⚡ Designed to ship. Built to scale. Powered by curiosity.</sub>
 
