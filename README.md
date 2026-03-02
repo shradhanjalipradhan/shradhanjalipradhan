@@ -8,7 +8,7 @@
 ### Senior Data & AI Engineer | Building Intelligent Systems at Scale
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=LLM+Agents+%7C+MLOps+%7C+Spark+%26+AWS+%7C+Production+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%20LLM+Agents+%7C+MLOps+%7C+Spark+%26+AWS+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
 <!-- QUICK LINKS -->
 <p>
