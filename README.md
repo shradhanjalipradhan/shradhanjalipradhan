@@ -5,10 +5,10 @@
 
 # ⚡ Shradhanjali Pradhan
 
-### Senior Data & AI Engineer | Building Intelligent Systems at Scale
+### Senior Data & AI Engineer | Data Platforms, LLM Systems, and Production ML
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%20LLM+Agents+%7C+MLOps+%7C+Spark+%26+AWS+%7C+Production+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Data+Pipelines+%7C+Spark+%26+AWS+%7C+LLM+Evaluation+%7C+Production+AI)](https://git.io/typing-svg)
 
 <!-- QUICK LINKS -->
 <p>
@@ -31,15 +31,15 @@
 name: Shradhanjali Pradhan
 role: Senior Data & AI Engineer
 location: United States 🇺🇸
-education: MSc Applied Data Analytics — Boston University (2025)
-experience: 4+ years building production-grade ML systems
+experience: 6+ years in industry across data engineering, ML, and AI systems
 
-currently_building:
-  - 🤖 LLM-powered autonomous agent systems
-  - ⚙️ Scalable MLOps & real-time inference pipelines
-  - 🧠 Neuro-Symbolic AI for auditable clinical reasoning
+focus_areas:
+  - 🔄 Batch and near-real-time data pipelines (PySpark, Airflow, AWS)
+  - 📏 LLM evaluation: hallucination, extraction accuracy, latency, consistency
+  - 🤖 RAG and agent systems with guardrails and human-in-the-loop review
+  - 🧠 Neuro-symbolic AI for auditable clinical reasoning
 
-superpower: "Turning AI experiments into production infrastructure"
+superpower: "Turning messy data and AI experiments into reliable production systems"
 ```
 
 ---
@@ -51,28 +51,28 @@ superpower: "Turning AI experiments into production infrastructure"
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Intelligent Agent Systems
-Building autonomous LLM-driven systems that **think, decide, and act** — from document intelligence to workflow automation engines processing enterprise-scale data.
+### 📊 Data Engineering at Scale
+ETL/ELT pipelines in **PySpark, SQL, and Airflow** on AWS. Idempotent, backfill-safe design with data quality checks and monitoring built in from day one.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Production ML Infrastructure
-End-to-end pipelines: **data ingestion → training → deployment → monitoring**. AWS-native architectures handling 1M+ records with SageMaker, Lambda, and Glue.
+End-to-end pipelines from **ingestion to training, deployment, and monitoring**. AWS-native architectures with SageMaker, Lambda, and Glue handling 1M+ records.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Applied AI Research
-Neuro-Symbolic architectures achieving **F1 = 1.00** in clinical extraction. Multi-modal sensor translation (MAVIC-T) for cross-domain image synthesis.
+### 📏 LLM Evaluation & Agents
+Benchmarking frameworks that catch **quality regressions** between model and prompt versions. RAG pipelines and agents with schema-validated outputs and approval gates.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data Engineering at Scale
-PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data warehousing with Snowflake, governance frameworks, and executive dashboards.
+### 🔬 Applied AI Research
+**2nd place of 64 teams** at the MAVIC-T Challenge (CVPR 2026) for SAR-to-EO translation. Neuro-symbolic architectures for structured clinical extraction.
 
 </td>
 </tr>
@@ -85,25 +85,25 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 
 ```
 2026 ─── 🔷 Softech Technology Group Inc ──── AI/ML Engineer
-         │   Production LLM systems & enterprise AI
+         │   Production LLM systems and enterprise AI
          │
 2024 ─── 🔷 DE Holdings (Data Engineer Academy) ── Data Engineer
-         │   Scalable ML pipelines, forecasting, anomaly detection
+         │   Scalable data and ML pipelines, forecasting, anomaly detection
          │
 2024 ─── 🔷 Omdena ──── ML Engineer
          │   3D segmentation, geospatial AI, route optimization
          │
 2022 ─── 🔷 Steradian Technologies ──── AI/ML Engineer
-         │   Real-time NLP on AWS, 1M+ healthcare records
+         │   AWS pipelines (Airflow, Glue, SageMaker), 1M+ healthcare records
          │
 2022 ─── 🔷 Innotrat Labs ──── ML Engineer
-         │   BERT classification, YOLO vision, OCR systems (>90% F1)
+         │   OCR + BERT document intelligence, YOLO vision (>90% F1)
          │
 2020 ─── 🔷 RemoteCare ──── Data Analyst
-         │   Churn prediction, 500K+ records, 40% reporting efficiency gain
+         │   Churn prediction on 500K+ records, 40% reporting efficiency gain
          │
 2020 ─── 🔷 Applied AI Course ──── AI Engineer
-              NLP, Deep Learning, Time-Series, Deployment
+              NLP, deep learning, time series, deployment
 ```
 
 ---
@@ -119,28 +119,30 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### ML & AI
+### Data Engineering
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### ML, LLM & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=flat-square)
-
-### Cloud & Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-### MLOps & Tools
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -154,35 +156,51 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 <tr>
 <td width="50%" align="center">
 
-<h3>🧠 Neuro-Symbolic Clinical AI</h3>
-<p><em>Publishing Soon</em></p>
-<p>Hybrid LLM + symbolic verification for <strong>auditable healthcare reasoning</strong>. Achieved F1 = 1.00 on structured clinical extraction.</p>
-<img src="https://img.shields.io/badge/LLM-Symbolic_AI-1f6feb?style=for-the-badge" />
-<img src="https://img.shields.io/badge/F1-1.00-00c853?style=for-the-badge" />
+<h3>🏢 Enterprise AI Knowledge & Agent Platform</h3>
+<p><em>In Active Development</em></p>
+<p>Document Q&A and agent workflows on <strong>FastAPI, PostgreSQL, and vector search</strong>, with chunking, embeddings, reranking, and a built-in evaluation layer.</p>
+<img src="https://img.shields.io/badge/RAG-Agents-1f6feb?style=for-the-badge" />
 
 </td>
 <td width="50%" align="center">
 
-<h3>🛰️ MAVIC-T: Multi-Modal Sensor Translation</h3>
-<p>Cross-modal image translation (EO↔SAR, RGB↔IR) for <strong>multi-sensor fusion</strong> and aerial imagery augmentation.</p>
-<img src="https://img.shields.io/badge/Computer_Vision-Multi--Modal-ff6d00?style=for-the-badge" />
+<h3>📏 <a href="https://github.com/shradhanjalipradhan/llm-eval-framework">LLM Evaluation Platform</a></h3>
+<p>Benchmarks LLM providers on <strong>hallucination rate, extraction accuracy, latency, and structured-output consistency</strong>. Automated batch runs catch regressions between versions.</p>
+<img src="https://img.shields.io/badge/LLM-Evaluation-00c853?style=for-the-badge" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<h3>🤖 AppLoom — Autonomous Job Agent</h3>
-<p><em>Stealth Development</em></p>
-<p>LLM-driven engine using <strong>Selenium + Gemini</strong> that dynamically discovers, matches, and applies to opportunities.</p>
+<h3>🛰️ MAVIC-T: SAR-to-EO Translation</h3>
+<p><em>CVPR 2026 · 2nd of 64 Teams</em></p>
+<p>Hybrid pipeline over <strong>68K+ multi-modal image chips</strong> (SAR, RGB, IR) using histogram matching and heuristic translation methods.</p>
+<img src="https://img.shields.io/badge/Computer_Vision-Multi--Modal-ff6d00?style=for-the-badge" />
+
+</td>
+<td width="50%" align="center">
+
+<h3>🧠 Neuro-Symbolic Clinical AI</h3>
+<p><em>Publishing Soon</em></p>
+<p>Hybrid LLM and symbolic verification for <strong>auditable healthcare reasoning</strong> on structured clinical extraction.</p>
+<img src="https://img.shields.io/badge/LLM-Symbolic_AI-1f6feb?style=for-the-badge" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<h3>🤖 AppLoom: Autonomous Job Agent</h3>
+<p>Agentic pipeline using <strong>Selenium, LLM APIs, and FAISS</strong> with schema-validated JSON output and human-in-the-loop approval before any action.</p>
 <img src="https://img.shields.io/badge/LLM_Agent-Automation-9c27b0?style=for-the-badge" />
 
 </td>
 <td width="50%" align="center">
 
-<h3>🛡️ Guardian AI — Accountability Framework</h3>
+<h3>🛡️ Guardian AI: Accountability Framework</h3>
 <p><em>Confidential Build</em></p>
-<p>Local-first AI monitoring system with <strong>encrypted storage</strong> and autonomous scheduling capabilities.</p>
+<p>Local-first AI monitoring system with <strong>encrypted storage</strong> and autonomous scheduling.</p>
 <img src="https://img.shields.io/badge/Privacy--First-Local_AI-00897b?style=for-the-badge" />
 
 </td>
@@ -199,12 +217,12 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 
 | Metric | Impact |
 |:---:|:---:|
+| 🏆 MAVIC-T Challenge, CVPR 2026 | **2nd of 64 teams** |
 | 🏥 Healthcare Records Processed | **1M+** |
 | 📄 Document OCR Precision | **>90% F1** |
 | 📉 Pipeline Failures Reduced | **40%** |
 | 📊 Reporting Efficiency Gain | **40%** |
 | 🎯 Predictive Accuracy Improvement | **20%** |
-| 🔬 Clinical Extraction F1 Score | **1.00** |
 
 </div>
 
@@ -247,8 +265,8 @@ PySpark + Airflow + AWS pipelines built for **reliability and speed**. Data ware
 <div align="center">
 
 <p>
-I'm open to collaborating on <strong>production AI systems</strong>, <strong>LLM agent architectures</strong>, and <strong>applied ML research</strong>.<br/>
-Whether it's a startup idea, open-source project, or technical writing — let's talk.
+Open to collaborating on <strong>data platforms</strong>, <strong>LLM evaluation and agent systems</strong>, and <strong>applied ML research</strong>.<br/>
+Startup idea, open-source project, or technical writing: let's talk.
 </p>
 
 <a href="mailto:edu.shradhanjali@gmail.com"><img src="https://img.shields.io/badge/📬_Drop_me_a_line-EA4335?style=for-the-badge" /></a>
