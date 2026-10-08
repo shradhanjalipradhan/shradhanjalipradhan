@@ -80,32 +80,6 @@ Benchmarking frameworks that catch **quality regressions** between model and pro
 
 ---
 
-<!-- EXPERIENCE TIMELINE -->
-## 💼 Experience
-
-```
-2026 ─── 🔷 Softech Technology Group Inc ──── AI/ML Engineer
-         │   Production LLM systems and enterprise AI
-         │
-2024 ─── 🔷 DE Holdings (Data Engineer Academy) ── Data Engineer
-         │   Scalable data and ML pipelines, forecasting, anomaly detection
-         │
-2024 ─── 🔷 Omdena ──── ML Engineer
-         │   3D segmentation, geospatial AI, route optimization
-         │
-2022 ─── 🔷 Steradian Technologies ──── AI/ML Engineer
-         │   AWS pipelines (Airflow, Glue, SageMaker), 1M+ healthcare records
-         │
-2022 ─── 🔷 Innotrat Labs ──── ML Engineer
-         │   OCR + BERT document intelligence, YOLO vision (>90% F1)
-         │
-2020 ─── 🔷 RemoteCare ──── Data Analyst
-         │   Churn prediction on 500K+ records, 40% reporting efficiency gain
-         │
-2020 ─── 🔷 Applied AI Course ──── AI Engineer
-              NLP, deep learning, time series, deployment
-```
-
 ---
 
 <!-- TECH STACK -->
