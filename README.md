@@ -52,7 +52,7 @@ superpower: "Turning messy data and AI experiments into reliable production syst
 <td width="50%" valign="top">
 
 ### 📊 Data Engineering at Scale
-ETL/ELT pipelines in **PySpark, SQL, and Airflow** on AWS. Idempotent, backfill-safe design with data quality checks and monitoring built in from day one.
+ETL/ELT in **PySpark, SQL, and Airflow** on AWS. Idempotent, backfill-safe design with data quality checks and monitoring built in from day one.
 
 </td>
 <td width="50%" valign="top">
